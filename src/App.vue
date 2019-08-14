@@ -13,8 +13,8 @@ export default {
 	data() {
 		return {
 			qiniuObj: {
-				url: '', //七牛域名
-				domain: '', //服务器子域名
+				url: '', //七牛域名https://upload-z2.qiniup.com/
+				domain: '', //服务器子域名 如 https://xxx.xxxx.com
 				token: '' //七牛token
 			}
 		};
