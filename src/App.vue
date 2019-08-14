@@ -13,10 +13,9 @@ export default {
 	data() {
 		return {
 			qiniuObj: {
-				url: 'https://upload-z2.qiniup.com/', //七牛域名
-				domain: 'https://image.lingyiliebian.com', //服务器子域名
-				token:
-					'jST00mAfYB_6B8eZgg1P504PGRdIJpvuaDnRCviM:lftzOm5_ZJrra9tK1aS7HGk-9Iw=:eyJzY29wZSI6ImltYWdlcyIsImRlYWRsaW5lIjoxNTY1NzcxNjA0fQ==' //七牛token
+				url: '', //七牛域名
+				domain: '', //服务器子域名
+				token: '' //七牛token
 			}
 		};
 	}
